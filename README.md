@@ -1,0 +1,1 @@
+A python web scraper using BeautifulSoup to fetch prices from the webpages of amazon and flipkart of a user-entered product for price comparison and a tracker in python to keep the user updated with the latest price drops.
